@@ -1,0 +1,29 @@
+.rodape {
+    background-color: rgb(176, 115, 46);
+    color:rgb(252, 251, 251) ;
+    text-align: center;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+.topo {
+    min-height: 100px;
+    background-color: rgb(176, 115, 46);
+    align-items: center;
+    margin-bottom: 8vh;
+    width: 100%;
+    display: flex;
+
+
+}
+
+.topo h1 {
+    color: white;
+    display: flex;
+    
+}
+

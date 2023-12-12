@@ -1,0 +1,43 @@
+
+* {
+  padding: 0px;
+  margin: 0px;
+  text-align:center;
+  
+}
+
+a {
+  color: #080808;
+  text-align:center;
+  text-decoration:none;
+  
+}
+
+p {
+  margin-left: 15vh;
+  margin-right: 15vh;
+  text-align:justify;
+
+}
+button {
+  transition-duration: 0.4s;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+button:hover {
+  background-color: rgb(176, 115, 46);
+  color: white;
+  
+}
+ .logo{
+  padding-right: 0;
+  margin-left: 1%;
+ }
+
